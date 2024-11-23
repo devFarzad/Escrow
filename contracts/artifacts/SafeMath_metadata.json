@@ -1,0 +1,47 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Math operations with safety checks that throw on error",
+			"kind": "dev",
+			"methods": {},
+			"title": "SafeMath",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/SafeMath.sol": "SafeMath"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/SafeMath.sol": {
+			"keccak256": "0xcf150ddbf12d27fb97a51e74f532b3dd5c057a121867d87d9e5e163cb921d9d3",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2019e7e1c6485992bd4b91f0195034e7c3e7a051ec59cfe6fb0a612d719567fb",
+				"dweb:/ipfs/QmfVQBQvuMSJUzxdwPF7zrCfQHuk3Zu5FYZDJudGoqGwYa"
+			]
+		}
+	},
+	"version": 1
+}
